@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+
+.nav-link {
+font-family: 'Josefin Sans', sans-serif;
+}
+.jamlineImage {
+height: 50%;
+} 
+.featurePri {
+width: 75%;
+}
+.compFeature {
+width: 75%;
+}
+.featureRow {
+width: 80vw;
+}
+.affinity {
+width: 55%;
+}
+.jamLine {
+height: 100%;
+}
