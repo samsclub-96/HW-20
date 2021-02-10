@@ -15,7 +15,7 @@ height: 50%;
 width: 75%;
 }
 .compFeature {
-width: 75%;
+width: 80%;
 }
 .featureRow {
 width: 80vw;
@@ -25,4 +25,7 @@ width: 55%;
 }
 .jamLine {
 height: 100%;
+}
+.empMap {
+  width: 150%;
 }
