@@ -7,18 +7,24 @@ body {
 
 .nav-link {
 font-family: 'Josefin Sans', sans-serif;
+color: #999999;
 }
-.jamlineImage {
-height: 50%;
-} 
+.nav-item .active {
+  color: white;
+}
+/* .jamlineImage {
+  height: 500px;
+}  */
 .featurePri {
 width: 75%;
 }
 .compFeature {
-width: 80%;
+width: 70%;
+
 }
 .featureRow {
-width: 80vw;
+width: 80%;
+
 }
 .affinity {
 width: 55%;
@@ -29,3 +35,8 @@ height: 100%;
 .empMap {
   width: 150%;
 }
+p {
+  font-size: 20px;
+}
+
+strong {  font-weight: 600 !important; }
